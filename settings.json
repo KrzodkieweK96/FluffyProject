@@ -10,7 +10,6 @@
         "proxy": true
     },
     "logs": {
-        "save_logs": false,
-        "log_folder": "logs"
+        "save_logs": true
     }
 }
