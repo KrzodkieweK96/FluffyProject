@@ -6,8 +6,7 @@
     },
     "webdriver": {
         "disable_blink_features": "AutomationControlled",
-        "headless": true,
-        "window_size": "1920x1080"
+        "headless": false
     },
     "logs": {
         "save_logs": false,
