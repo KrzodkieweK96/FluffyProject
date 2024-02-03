@@ -1,0 +1,16 @@
+{
+    "global": {
+        "name": "Fluffy",
+        "version": "1.0",
+        "author": "JohnAbruzzi71"
+    },
+    "webdriver": {
+        "disable_blink_features": "AutomationControlled",
+        "headless": true,
+        "window_size": "1920x1080"
+    },
+    "logs": {
+        "save_logs": false,
+        "log_folder": "logs"
+    }
+}
