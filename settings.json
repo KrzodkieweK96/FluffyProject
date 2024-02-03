@@ -7,7 +7,7 @@
     "webdriver": {
         "disable_blink_features": "AutomationControlled",
         "headless": false,
-        "proxy": "proxy_service_name"
+        "proxy": true
     },
     "logs": {
         "save_logs": false,
