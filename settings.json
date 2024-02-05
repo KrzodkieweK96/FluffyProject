@@ -8,8 +8,5 @@
         "disable_blink_features": "AutomationControlled",
         "headless": false,
         "proxy": true
-    },
-    "logs": {
-        "save_logs": true
     }
 }
